@@ -134,8 +134,8 @@ The following GBIF products and services are supported through coordinated proce
 
 ===== Data snapshots and analytics
 
-*	Monthly snapshots of all GBIF data, delivered on Amazon AWS, Google BigQuery and Microsoft Azure cloud infrastructure
-*	Quarterly processing of all historical data snapshots to provide ongoing data summaries and country reports
+*	https://www.gbif.org/occurrence-snapshots[Monthly snapshots^] of all GBIF data, delivered on Amazon AWS, Google BigQuery and Microsoft Azure cloud infrastructure
+*	Quarterly processing of all historical data snapshots to provide ongoing https://www.gbif.org/analytics/global[data summaries and country reports^]
 
 ===== Data citation and impact tracking
 
@@ -151,7 +151,7 @@ The following GBIF products and services are supported through coordinated proce
 
 ===== Manage technical partnerships
 
-*	Liaison and participation within open standards development processes; in particular with Biodiversity Information Standards (TDWG)
+*	Liaison and participation within open standards development processes; in particular with https://www.tdwg.org/[Biodiversity Information Standards^] (TDWG)
 *	Coordination, collaboration and integration of GBIF software, vocabularies and services with other projects; notably the Living Atlases community and OBIS
 *	Contribution to key Open-Source Software libraries that GBIF relies upon
 
