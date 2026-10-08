@@ -2,11 +2,11 @@
 
 === Suggested citation
 
-GBIF Work Programme 2027: Annual Update and Implementation Plan to Strategic Framework 2023–2027 (2026) Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-pending
+GBIF Work Programme 2027: Annual Update and Implementation Plan to Strategic Framework 2023–2027 (2026) Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-et3m-hp79
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-pending
+https://doi.org/10.35035/doc-et3m-hp79
 
 === Document control
 
