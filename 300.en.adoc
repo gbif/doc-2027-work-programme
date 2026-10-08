@@ -1,0 +1,84 @@
+[[priority3]]
+== Priority Area 3: Community and Capacity
+
+*_Developing the GBIF network to meet future needs and challenges_*
+
+[[activity3-1]]
+=== Activity 3.1: Communicating the value of GBIF
+
+==== Projected outcomes for 2027
+
+* The GBIF network, its audiences and its wider communities of practice are equipped with robust evidence that demonstrates its value and relevance to science, policy and society
+
+==== Indicative tasks for 2027
+
+*	Finalize work around GBIF annual report framework, updated communications strategy and internal style guide
+*	Streamline processes and strategy for purchase, inventory and shipping of merchandise and printed materials
+*	Develop sustainable and effective approach to engagement and exhibition strategy for GBIF presences at meeting and conferences
+*	Explore options for using machine learning in literature tracking to accommodate increasing volumes
+*	Complete carbon accounting for 2027 as follow-up to sustainability baseline report
+
+// *** *Expected funding mechanisms and sources*: core funds: salaried staff, communication materials and travel.  
+
+[[activity3-2]]
+=== Activity 3.2: Support and strengthen GBIF nodes
+
+==== Projected outcomes for 2027
+
+*	GBIF nodes provide a strong and stable foundation for data mobilization and use through the network
+*	The role of GBIF nodes as hubs for data mobilization and use is better understood and supported, especially at national level
+
+==== Indicative tasks for 2027
+
+*	Based on the 2026 evaluation of the Node Awards programme, implement the awards in the new format to recognize and share inspiring examples of node achievements
+*	Work with node trainers and mentors to develop and implement a two-day Global Nodes Training programme as part of the https://training.gbif.org/en/nodes/[Nodes Development curriculum^], and explore opportunities for the involvement of Heads of Delegation in the global nodes events 
+*	Develop and launch an “Introduction to node management” online short course as part of the nodes onboarding programme aiming to facilitate the development of new nodes and support transitions to new node managers
+*	Under the guidance of the Nodes Steering Group (NSG), explore the possibility of nominating mentors to new node managers as part of the onboarding programme
+*	Working with the NSG, continue support for the task group on Indigenous data governance and build on its recommendations for guidance materials to enable the GBIF community to implement the https://datascience.codata.org/articles/10.5334/dsj-2020-043#the-care-principles-and-their-supporting-concepts[CARE Principles^]
+*	Support the development of standards for integrating Traditional Knowledge with biodiversity data where Indigenous Peoples and local communities determine that sharing is appropriate in alignment with the CARE Principles for Indigenous Data Governance  
+*	Organize a virtual course on joining GBIF as a formal Participant and establishing a Participant node with updated materials to clarify the role of organizational nodes
+
+
+// ** *Expected funding mechanisms and sources*: Core funds: salaried staff, Global Nodes Meeting, Task Force expenses and travel; Supplementary funds:  potential GEF-8 funds, potential Special Purpose Fund (for Indigenous Data Governance task Group).  
+
+[[activity3-3]]
+=== Activity 3.3: Develop capacity and skills
+
+==== Projected outcomes for 2027
+
+*	GBIF’s ongoing capacity support programmes are successfully concluded, and new support programmes are scoped
+*	Additional training and guidance resources are available to the community in multiple languages covering both data mobilization and data use
+
+==== Indicative tasks for 2027
+
+*	Update GBIF’s https://docs.gbif.org/capacity-development-framework/en/[Capacity Development Framework^] to capture recent progress and align with GBIF’s next strategic plan
+*	Further develop materials and support training activities around the DwC-DP and eDNA and Data Use
+*	Provide oversight, monitoring and support for the BID-funded projects in Latin America & Caribbean, Pacific and Africa, including review of progress reports
+*	Explore how funder information and key metrics, such as dataset deliverables, can be seen, searched and reported on http://gbif.org/[GBIF.org^] to showcase the impact of GBIF-led programmes such as BID  
+*	Organize BID knowledge-sharing webinars for grantees to update the GBIF network on their plans and progress in implementing capacity development projects for data mobilization
+*	Work with regional support teams to deliver virtual and on-site training workshops to complement the work of the nodes and engage the broader community of practice
+*	Further develop regional support teams, including any recruitment and onboarding of new members, as well as ongoing coordination of the work and skills development to ensure the teams provide effective support of data mobilization and use
+*	Organize online Data Use workshops for BID grantees and the broader community of practice in Africa, Latin America & Caribbean, and Pacific
+*	Use the updated reporting format across https://www.gbif.org/programme/82219[Capacity Enhancement Support
+*	Programme^] (CESP) and http://gbif.org/bid[Biodiversity for Development^] (BID) grantees to consistently track progress towards the goals in the capacity development framework
+*	Explore capacity self-assessment process for individuals and institutions to track progress and identify training needs
+*	Build on the approach of handbooks currently developed for regional representatives and regional support teams to develop practical guidance for other community roles, including volunteers
+
+// ** *Expected funding mechanisms and sources*: ore funds: salaried staff,  CESP grant funds and travel; Supplementary funds: EC BID grant; contributions from Norway and Finland to Priority Area 3 Special Purpose Fund; potential funding from the https://www.worldbank.org/en/programs/amazon-sustainable-landscapes-program[World Bank Amazon Sustainable Landscapes programme^].  
+
+[[activity3-ongoing]]
+=== Ongoing activities to support community and capacity
+
+*	Organize annual calls for CESP projects
+*	Support for new node managers through the node onboarding programme
+*	Support proposals to the hosted portal programme
+*	Support the Living Atlases community, including financial contribution to support a technical coordinator
+*	Provide support for digital documentation and related community consultation processes
+*	Operate effective communications that produce and disseminate news items and thematic content via GBIF.org, newsletters, social media and other relevant channels
+*	Maintain biennial cycle of nodes meetings with 2027 global nodes meeting at GB34 and planning for regional meetings in 2027
+*	Coordinate work of volunteers, including mentors, ambassadors, translators and reviewers
+*	Maintain and refine GBIF’s training curricula and support community reuse of these materials
+*	Provide regular Technical Support Hours for nodes
+*	Support the GBIF Data Use club
+
+*Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC INTPA for BID program; Horizon Europe grant.
