@@ -27,7 +27,7 @@
 ==== Projected outcomes for 2027
 
 *	Reduce knowledge gaps by helping the network to set targets for consolidating data coverage across thematic, taxonomic, phylogenetic, spatial and temporal dimensions
-	Enable, expand and diversify the uptake and application of GBIF-mediated data
+*	Enable, expand and diversify the uptake and application of GBIF-mediated data
 
 ==== Indicative tasks for 2027
 
