@@ -55,17 +55,15 @@
 *	Contribute to efforts aimed at acknowledging and quantifying the positive, non-monetary benefits of businesses sharing free and open data on biodiversity 
 *	Advance the https://www.gbif.org/data4nature[Data4Nature^] initiative with multilateral and binational development banks and development agencies and optimize data publishing workflows across the development-finance data value chain
 *	Develop a draft data broker agreement for review and discussion with GBIF Participants, publishers and market intermediaries
-*	Ongoing activities to support policy and partnerships
+
+[[activity2-ongoing]]
+===	Ongoing activities to support policy and partnerships
+
 *	Manage participation processes relating to Heads of Delegation, including administration and communication
 *	Support national and regional engagement with CBD focal points and subregional technical and scientific support centres to ensure technical alignment and data access and use
 *	Strengthen ongoing partnership coordination with GEO BON, OBIS and other global biodiversity data initiatives
 *	Renew the Memorandum of Cooperation with IUCN while continuing regular imports of checklist data from the https://www.iucnredlist.org/[IUCN Red List of Threatened Species^] and the https://griis.org/[Global Register of Introduced and Invasive Species^] (GRIIS)
 *	Maintain outreach to the G20 Research Innovation Working Group during the 2027 United Kingdom presidency, support biodiversity initiatives aligned with Italy’s European Union presidency (2028) and related science-policy fora
 *	Maintain policy-level engagement with multilateral environmental agencies and agreements, including UNEP, UNDP, FAO, WHO and WOAH, to align funding strategies and support proposals
-
-// *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: potential Special Purpose Fund.  
-
-// [[activity2-ongoing]]
-// === Ongoing activities to support policy and partnerships
 
 *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: Horizon Europe grants. 
