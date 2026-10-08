@@ -1,0 +1,158 @@
+[[priority4]]
+== Priority Area 4: Infrastructure and data products
+
+*_Maintain and evolve infrastructure to advance biodiversity-related knowledge_*
+
+[[activity4-1]]
+=== Activity 4.1: Enhance robustness of the core GBIF infrastructure
+
+==== Projected outcomes for 2027
+
+* GBIF-maintained software and informatics infrastructure provides high, ongoing levels of availability and performance that keep pace with growth in data publication and use
+
+==== Indicative tasks for 2027
+
+NOTE: _Many previous tasks from §4.1 are now part of ongoing operations below_
+
+*	Improve the deployment, scalability, and robustness of GBIF web services to ensure reliable performance under rapidly increasing demand, driven by AI-driven usage
+*	Explore and adopt emerging AI-driven access patterns, including new interfaces and standards (e.g. Model Context Protocol (MCP)), to support machine-actionable access to GBIF data and services (see also §2.1 and §4.4) 
+
+// ** *Expected funding mechanisms and sources*: Core funds: salaried staff, hardware procurement; Supplementary funds: EC grants; potential GEF-8 funds.  
+
+[[activity4-2]]
+=== Activity 4.2: Enhance support services for data publishers and users
+
+==== Projected outcomes for 2027
+
+*	The expanding GBIF community of users are fully supported by a responsive help desk team and improved technical documentation
+*	The taxonomic and collections communities benefit from improvements in GBIF support to the https://www.gbif.org/grscicoll[Global Registry of Scientific Collections^] (GRSciColl) and the Catalogue of Life
+*	Improved data flows and collaboration with large scale research infrastructures (e.g. eBird and DiSSCo)
+
+==== Indicative tasks for 2027
+
+NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
+
+*	Support the GRSciColl editor community through training events and integration of external sources with GRSciColl
+*	Revise and update the Latimer Core export of GRSciColl to include more collection descriptors
+*	Enhance materials and support services to meet growing demand from survey and monitoring data publishers
+*	Explore the potential to expand citation tracking to new dimensions including GRSciColl entities and projects contained within aggregated datasets
+*	The GBIF Secretariat, in consultation with the GBIF community, will monitor any changes needed in the data user and publisher agreement or guidance emerging from CBD-COP17 decisions
+*	Collaborate with emerging research infrastructures to improve data flows through the adoption of the Darwin Core Data Package standard
+*	Explore improvements to publisher and dataset registration workflows to bring consistency between dataset and GRSciColl metadata  
+
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff, contractors; Supplementary funds: Special Purpose Fund;  potential EC grant and GEF-8 funds.  
+
+[[activity4-3]]
+=== Activity 4.3: Enhance features and capabilities of the GBIF infrastructure
+
+==== Projected outcomes for 2027
+
+*	Improved user interface to GBIF.org
+*	Improved capabilities for GBIF to handle ecological, collections, paleontological and DNA data
+*	Improved access to higher-quality and more fit-for-purpose biodiversity data 
+*	Data reuse increased through more stable GBIF identifiers
+
+==== Indicative tasks for 2027
+
+*	Design and prototype a DNA reference library catalogue with citation tracking and annotation metrics
+*	Develop a reinterpretation pipeline that links sequences to the DNA reference library catalogue and enables regular taxonomic updates to both existing and new sequence-based data
+*	Explore how spatial species distributions may inform taxonomic reinterpretation of sequence-based occurrences
+*	Implement improved indexing, filtering and download options for DNA-derived data
+*	Design and prototype a pragmatic, generalizable system to cluster sequences into stable molecular taxon units for key marker regions
+*	Expand event-based data capabilities to support better dataset discoverability and explore cross-dataset services
+*	Expand the processing and integration of datasets published using Darwin Core Data Package format (DwC-DP)
+*	Maintain and improve the Metabarcoding Data Toolkit (MDT) installations and software through the ongoing pilot phase
+*	Monitor and incorporate rule-based annotations into GBIF infrastructure as they mature
+*	Enable national nodes to select which national checklist datasets (e.g. invasive species lists) are displayed on country pages
+*	Expand supported download/export formats to improve interoperability with common GIS tools, alongside existing export options
+*	Enable DOI-based citations for filtered checklists downloaded through Checklistbank and include these in GBIF citation tracking processes
+*	Explore possibility of providing download services for the related records (similar record clustering)
+
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding; potential EC grant and GEF-8 funds.
+
+[[activity4-4]]
+=== Activity 4.4: Drive data standards development
+
+==== Projected outcomes for 2027
+
+*	The Darwin Core Conceptual Model and Darwin Core Data Package (DwC-DP) have expanded GBIF’s ability to support richer and more complex biodiversity data, with early implementation demonstrated through new datasets
+
+==== Indicative tasks for 2027
+
+*	Establish regular releases of DwC-DP schemas through the TDWG Darwin Core Maintenance Group, responding to community needs
+*	Enable GBIF infrastructure (including IPT) to track and implement changes in data schemas
+*	Provide outreach and implementation support for the Darwin Core Data Package (DwC-DP), including documentation, community engagement, and guidance for data publishers adopting the new standard
+*	Assess the applicability of DwC-DP to AI-generated and automated sensor data streams (e.g. acoustic sensor-based species detections), review required vocabularies (see also §2.1 and §4.1)  
+*	Support the integration of the Indigenous Data Governance Task Group's outcomes into Darwin Core
+
+//  *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding;  potential EC grant and GEF-8 funds.  
+
+[[activity4-ongoing]]
+=== Ongoing activities to support infrastructure and data products
+
+The following GBIF products and services are supported through coordinated processes, including:
+
+*	Requirements gathering through GitHub issues, community webinars, Nodes events, open forums and mailing lists
+*	Continuous feature development driven by user feedback and aligned with evolving data standards and best practices
+*	Community support via technical documentation, a responsive help desk, tutorials (e.g. GBIF Data Blog), training, reviews of datasets and guides, and coordination of regional support teams, volunteers and translators
+*	Software maintenance to address technical debt, updating frameworks and ensuring long-term robustness and security 
+
+===== Integrated Publishing Toolkit (IPT)
+
+*	Widely installed data-publishing software used by GBIF Nodes and institutions
+*	Also offered as a fully managed, cloud-hosted service by the GBIF Secretariat, including updates, backups and support
+
+===== GBIF.org indexing platform and APIs
+
+*	Ingests, indexes and processes data for quality control and enrichment using taxonomic and geospatial resources and controlled vocabularies
+*	Supports search, filtering and download services, along with DOI-based citation tracking
+*	Flags and reports data issues to inform both data publishers and users
+
+===== ChecklistBank.org infrastructure
+
+*	Community repository for publishing and managing taxonomic checklists
+*	Includes editorial tools for projects like the Catalogue of Life, supporting the integration of source lists into unified taxonomies
+
+===== Registry and Directory services
+
+*	Provides registration of institutions, datasets and access and authorization services for users
+*	Indexes the dataset-level metadata and provides discovery services that enable external infrastructures to connect to GBIF
+*	Coordinates the endorsement processes that support the business needs of GBIF
+
+===== Global Registry of Scientific Collections (GRSciColl)
+
+*	Centralized GBIF-hosted registry of community-maintained information on physical scientific collections
+*	Maintained by the GBIF Secretariat and edited by a global network of curators
+
+===== Client libraries (rGBIF and pyGBIF)
+
+*	Official R and Python libraries for accessing and using GBIF-mediated data
+
+===== Hosted portals
+
+*	Fully managed and hosted data portals offering curated access to subsets of GBIF data
+
+===== Data snapshots and analytics
+
+*	Monthly snapshots of all GBIF data, delivered on Amazon AWS, Google BigQuery and Microsoft Azure cloud infrastructure
+*	Quarterly processing of all historical data snapshots to provide ongoing data summaries and country reports
+
+===== Data citation and impact tracking
+
+*	Infrastructure for assigning DOIs for data downloads and ensuring consistent dataset citation
+*	Citation tracking systems identify and categorize usage, with ~8 peer-reviewed publications referencing GBIF data each day
+*	Annual GBIF Science Review highlights the impact of shared biodiversity data
+
+===== Data centre operations (University of Copenhagen)
+
+*	Capacity planning and procurement for physical hardware (3 racks)
+*	Server administration, including networking, monitoring, offsite backups and addressing security concerns
+*	Ongoing upgrades to operating systems and distributed computing framework
+
+===== Manage technical partnerships
+
+*	Liaison and participation within open standards development processes; in particular with Biodiversity Information Standards (TDWG)
+*	Coordination, collaboration and integration of GBIF software, vocabularies and services with other projects; notably the Living Atlases community and OBIS
+*	Contribution to key Open-Source Software libraries that GBIF relies upon
+
+*Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: Novo Nordisk Foundation for eDNA work; Special Purpose Fund.
