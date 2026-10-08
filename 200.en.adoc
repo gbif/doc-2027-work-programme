@@ -20,7 +20,7 @@
 *	Establish ongoing review of Organizational Associate Participant (OAP) contributions, including annual engagement updates, documented recommendations for priority organizations, and appropriate follow-up actions
 *	Pilot OAP capacity self-assessments to identify practical mechanisms for providing technical, thematic or regional input into GBIF programmes
 *	Working with relevant partners, prepare for a follow-up study on the economic value of data standardization and shared infrastructure, including institutional and national impact of GRSciColl and hosted portals
-*	Assess use of GBIF-mediated data in AI systems and models, explore options for adjusting GBIF’s terms of service to address unregulated API access, and review  current use and understanding of CC BY-NC licences among GBIF Participant nodes, publishers and relevant task groups and partners  (see also activity4-1[§4.1] and §4.4) 
+*	Assess use of GBIF-mediated data in AI systems and models, explore options for adjusting GBIF’s terms of service to address unregulated API access, and review  current use and understanding of CC BY-NC licences among GBIF Participant nodes, publishers and relevant task groups and partners  (see also #activity4-1[§4.1] and §4.4) 
 *	Explore partnerships capable of providing nodes and publishers with access to supplementary funding or IT services  
 
 [[activity2-2]]
