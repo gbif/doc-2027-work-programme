@@ -59,8 +59,7 @@
 *	Work with regional support teams to deliver virtual and on-site training workshops to complement the work of the nodes and engage the broader community of practice
 *	Further develop regional support teams, including any recruitment and onboarding of new members, as well as ongoing coordination of the work and skills development to ensure the teams provide effective support of data mobilization and use
 *	Organize online Data Use workshops for BID grantees and the broader community of practice in Africa, Latin America & Caribbean, and Pacific
-*	Use the updated reporting format across https://www.gbif.org/programme/82219[Capacity Enhancement Support
-*	Programme^] (CESP) and http://gbif.org/bid[Biodiversity for Development^] (BID) grantees to consistently track progress towards the goals in the capacity development framework
+*	Use the updated reporting format across https://www.gbif.org/programme/82219[Capacity Enhancement Support Programme^] (CESP) and http://gbif.org/bid[Biodiversity for Development^] (BID) grantees to consistently track progress towards the goals in the capacity development framework
 *	Explore capacity self-assessment process for individuals and institutions to track progress and identify training needs
 *	Build on the approach of handbooks currently developed for regional representatives and regional support teams to develop practical guidance for other community roles, including volunteers
 
