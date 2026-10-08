@@ -94,7 +94,7 @@ The following GBIF products and services are supported through coordinated proce
 
 *	Requirements gathering through GitHub issues, community webinars, Nodes events, open forums and mailing lists
 *	Continuous feature development driven by user feedback and aligned with evolving data standards and best practices
-*	Community support via technical documentation, a responsive help desk, tutorials (e.g. GBIF Data Blog), training, reviews of datasets and guides, and coordination of regional support teams, volunteers and translators
+*	Community support via technical documentation, a responsive help desk, tutorials (e.g. https://data-blog.gbif.org/[GBIF Data Blog^]), training, reviews of datasets and guides, and coordination of regional support teams, volunteers and translators
 *	Software maintenance to address technical debt, updating frameworks and ensuring long-term robustness and security 
 
 ===== Integrated Publishing Toolkit (IPT)
