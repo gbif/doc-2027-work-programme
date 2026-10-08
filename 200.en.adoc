@@ -1,14 +1,71 @@
-[[short-id]]
-== Section/chapter title 
+[[priority2]]
+== Priority Area 2: Policy and Partnerships
 
-“Hast got it, Dummie?” said she, quickly, as she closed the door on the guest.
+*_Developing partnerships that benefit policy and society_*
 
-“Noa, noa! not exactly — but I thinks as ‘ow ⸺”
+[[activity2-1]]
+=== Activity 2.1: Expand and strengthen participation 
 
-“Pish, you fool!” cried the woman, interrupting him, peevishly: “Vy, it is no use desaving of me. You knows you has only stepped from my boosing ken to another, and you has not been arter the book at all. So there’s the poor cretur a-raving and a-dying, and you ⸺”
+==== Projected outcomes for 2027
 
-“Let I speak!” interrupted Dummie in his turn. “I tells you I vent first to Mother Bussblone’s, who, I knows, chops the whiners morning and evening to the young ladies, and I axes there for a Bible, and she says, says she, ‘I ’as only a “Companion to the __H__alter!” but you’ll get a Bible, I think, at Master Talkins, — the cobbler — as preaches.’ So I goes to Master Talkins, and he says, says he, ‘I ’as no call for the Bible, ’cause vy, I ’as a call vithout; but mayhap you’ll be a-getting it at the butcher’s hover the vay — ’cause vy? — the butcher’ll be damned!’ So I goes hover the vay, and the butcher says, says he, ‘I ’as not a Bible, but I ’as a book of plays bound for all the vorld just like ’un, and mayhap the poor cretur mayn’t see the difference.’ So I takes the plays, Mrs. Margery, and here they be surely! — And how’s poor Judy?”
+*	GBIF national participation is expanded across currently underrepresented regions, G20 economies and megadiverse countries
+*	Current Associate Participants have agreed pathways towards achieving or returning to voting participation
+*	GBIF is recognized as a key implementation partner for biodiversity-related projects supported by the https://www.thegef.org/[Global Environment Facility^] (GEF)
+*	GBIF aligns new funding mechanisms to guide resources to GBIF Participants and publishers while optimizing support for national, regional and global policymaking
 
-“Fearsome! she’ll not be over the night; I’m a-thinking.”
+==== Indicative tasks for 2027
 
-“Vell, I’ll track up the dancers!”
+*	Maintain a GEF-9 / GBFF funding and partnership pipeline that engages at least four implementing agencies and advances at least three country, regional or global concept opportunities that involve GBIF as an executing, technical or data infrastructure partner
+*	Advance engagement with the regional and subregional Technical and Scientific Cooperation centres of the UN Convention on Biological Diversity (CBD) through targeted consultation that defines fundable regional service models for use of GBIF infrastructure, tools and services
+*	Establish ongoing review of Organizational Associate Participant (OAP) contributions, including annual engagement updates, documented recommendations for priority organizations, and appropriate follow-up actions
+*	Pilot OAP capacity self-assessments to identify practical mechanisms for providing technical, thematic or regional input into GBIF programmes
+*	Working with relevant partners, prepare for a follow-up study on the economic value of data standardization and shared infrastructure, including institutional and national impact of GRSciColl and hosted portals
+*	Assess use of GBIF-mediated data in AI systems and models, explore options for adjusting GBIF’s terms of service to address unregulated API access, and review  current use and understanding of CC BY-NC licences among GBIF Participant nodes, publishers and relevant task groups and partners  (see also §4.1 and §4.4) 
+*	Explore partnerships capable of providing nodes and publishers with access to supplementary funding or IT services  
+
+[[activity2-2]]
+=== Activity 2.2: Support the science-policy interface 
+
+==== Projected outcomes for 2027
+
+*	GBIF-mediated data is consistently and transparently applied and cited across multiple indicators used to monitor progress towards the goals and targets agreed through the CBD and integrated into national platforms and reporting processes
+*	GBIF’s value in supporting the UN https://www.un.org/sustainabledevelopment/[Sustainable Development Goals^] (SDGs) is recognized and reinforced through strategic partnerships with relevant international organizations focused on climate change, food security, human health and wellbeing, and both terrestrial and marine biodiversity such as the https://ipbes.net/[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services^] (IPBES)
+
+==== Indicative tasks for 2027
+
+*	Build on and refine GBIF country metrics to develop additional indicators that set targets and track progress for data mobilization to address knowledge gaps and biases in line with https://www.cbd.int/gbf/targets/21[GBF Target 21^]
+*	Close a gap in impact communications and extend efforts to track research in the Science Review by completing a review of 7th National Reports to the CBD and highlighting notable examples of the use of global- and national-scale data and resources from the GBIF network 
+*	Develop targeted briefing documents that outline GBIF’s roles, relevance and involvement in science-policy and funding processes, including CBD, GEF and UN SDGs
+*	Explore effective mechanisms for engaging delegations and nodes to strengthen GBIF’s contributions to CBD implementation, monitoring and reporting
+*	Develop pilot on potential use of GBIF-mediated data to track progress on addressing biodiversity knowledge gaps and biases identified in IPBES assessments, including recommendations for consistent transferable methods and improved specifications
+*	Pursue improved connections and collaborations between GBIF and multilateral conventions, including CBD and IPBES as well as the UN Convention to Combat Desertification (UNCCD), the Convention on the Conservation of Migratory Species of Wild Animals (CMS), The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), and the Convention on Wetlands (Ramsar).
+  
+[[activity2-3]]
+=== Activity 2.3: Support nature-positive outcomes from decisions in the business, financial and productive sectors
+
+==== Projected outcomes for 2027
+
+*	Lending agreements prepared by private agencies, financial institutions and public development banks include clear and unequivocal requirements for sharing biodiversity data
+*	Private companies, trade associations and consultancies in all global regions recognize GBIF as the preferred platform to share primary biodiversity data gathered through impact assessments and monitoring
+*	The GBIF network is working toward consensus and clear terms of use for applying its data in corporate reporting tools and frameworks
+
+==== Indicative tasks for 2027
+
+*	Work with GBIF nodes, public-sector partners, consultancies and others to incentivize, support and increase corporate nature data publishing in line with recommendations from the https://tnfd.global/upgrading-the-nature-data-value-chain-for-market-participants/#summary[Taskforce on Nature-based Financial Disclosures^] (TNFD) and other private-sector initiatives 
+*	Contribute to efforts aimed at acknowledging and quantifying the positive, non-monetary benefits of businesses sharing free and open data on biodiversity 
+*	Advance the https://www.gbif.org/data4nature[Data4Nature^] initiative with multilateral and binational development banks and development agencies and optimize data publishing workflows across the development-finance data value chain
+*	Develop a draft data broker agreement for review and discussion with GBIF Participants, publishers and market intermediaries
+*	Ongoing activities to support policy and partnerships
+*	Manage participation processes relating to Heads of Delegation, including administration and communication
+*	Support national and regional engagement with CBD focal points and subregional technical and scientific support centres to ensure technical alignment and data access and use
+*	Strengthen ongoing partnership coordination with GEO BON, OBIS and other global biodiversity data initiatives
+*	Renew the Memorandum of Cooperation with IUCN while continuing regular imports of checklist data from the https://www.iucnredlist.org/[IUCN Red List of Threatened Species^] and the https://griis.org/[Global Register of Introduced and Invasive Species^] (GRIIS)
+*	Maintain outreach to the G20 Research Innovation Working Group during the 2027 United Kingdom presidency, support biodiversity initiatives aligned with Italy’s European Union presidency (2028) and related science-policy fora
+*	Maintain policy-level engagement with multilateral environmental agencies and agreements, including UNEP, UNDP, FAO, WHO and WOAH, to align funding strategies and support proposals
+
+// *** *Expected funding mechanisms and sources*: Core funds: salaried staff and travel; Supplementary funds: potential Special Purpose Fund.  
+
+// [[activity2-ongoing]]
+// === Ongoing activities to support policy and partnerships
+
+*Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: Horizon Europe grants. 
