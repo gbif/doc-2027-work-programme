@@ -12,10 +12,10 @@
 
 ==== Indicative tasks for 2027
 
-NOTE: _Many previous tasks from §4.1 are now part of ongoing operations below_
+NOTE: _Many previous tasks from link:#activity4-1[§4.1] are now part of ongoing operations below_
 
 *	Improve the deployment, scalability, and robustness of GBIF web services to ensure reliable performance under rapidly increasing demand, driven by AI-driven usage
-*	Explore and adopt emerging AI-driven access patterns, including new interfaces and standards (e.g. Model Context Protocol (MCP)), to support machine-actionable access to GBIF data and services (see also §2.1 and §4.4) 
+*	Explore and adopt emerging AI-driven access patterns, including new interfaces and standards (e.g. Model Context Protocol (MCP)), to support machine-actionable access to GBIF data and services (see also link:#activity2-1[§2.1] and link:#activity4-4[§4.4]) 
 
 // ** *Expected funding mechanisms and sources*: Core funds: salaried staff, hardware procurement; Supplementary funds: EC grants; potential GEF-8 funds.  
 
@@ -30,7 +30,7 @@ NOTE: _Many previous tasks from §4.1 are now part of ongoing operations below_
 
 ==== Indicative tasks for 2027
 
-NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
+NOTE: _Many previous tasks from link:#activity4-2[§4.2] are now part of ongoing operations below_
 
 *	Support the GRSciColl editor community through training events and integration of external sources with GRSciColl
 *	Revise and update the Latimer Core export of GRSciColl to include more collection descriptors
@@ -82,7 +82,7 @@ NOTE: _Many previous tasks from §4.2 are now part of ongoing operations below_
 *	Establish regular releases of DwC-DP schemas through the TDWG Darwin Core Maintenance Group, responding to community needs
 *	Enable GBIF infrastructure (including IPT) to track and implement changes in data schemas
 *	Provide outreach and implementation support for the Darwin Core Data Package (DwC-DP), including documentation, community engagement, and guidance for data publishers adopting the new standard
-*	Assess the applicability of DwC-DP to AI-generated and automated sensor data streams (e.g. acoustic sensor-based species detections), review required vocabularies (see also §2.1 and §4.1)  
+*	Assess the applicability of DwC-DP to AI-generated and automated sensor data streams (e.g. acoustic sensor-based species detections), review required vocabularies (see also link:#activity2-1[§2.1] and link:#activity4-1[§4.1])  
 *	Support the integration of the Indigenous Data Governance Task Group's outcomes into Darwin Core
 
 //  *** *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: EC grant funding;  potential EC grant and GEF-8 funds.  
