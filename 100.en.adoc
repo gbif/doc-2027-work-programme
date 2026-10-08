@@ -70,8 +70,7 @@
 *	Run annual competitions through the https://www.gbif.org/ebbe[Ebbe Nielsen Challenge^] and https://www.gbif.org/graduate-researchers-award[Graduate Researchers Awards^]
 *	Ensure presence of GBIF representatives— including through Secretariat and node staff, regional contractors — at relevant scientific conferences with appropriate communication materials, presentations and training workshops
 *	Maintain master sets of presentations and other resources on priority work lines (such as DNA, SAM), grow a network of ambassadors and trainers to delegate thematic outreach and training at the regional and national levels
-	Review and process datasets reported through the https://github.com/gbif/data-mobilization[Suggest a dataset tool^] to increase ingestion of thematic data into GBIF
+*	Review and process datasets reported through the https://github.com/gbif/data-mobilization[Suggest a dataset tool^] to increase ingestion of thematic data into GBIF
 *	Support GBIF network to integrate data and GBIF training into higher education programmes and professional development of the early career researchers of biodiversity (e.g. update materials and modules on DNA, SAM)
-
 
 *Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: Novo Nordisk Foundation for DNA work; Horizon Europe grants
