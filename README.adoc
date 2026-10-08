@@ -1,7 +1,10 @@
 https://docs.gbif.org/2027-work-programme/en/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Work Programme 2027]]
 https://doi.org/10.35035/doc-et3m-hp79[image:https://zenodo.org/badge/DOI/10.35035/doc-et3m-hp79.svg[doi:10.35035/doc-et3m-hp79]]
 https://creativecommons.org/publicdomain/zero/1.0/[image:https://img.shields.io/badge/Deed-CC0-lightgrey.svg[CC0]]
-https://builds.gbif.org/job/doc-2027-work-programme/lastBuild/console[image:https://builds.gbif.org/job/doc-2027-work-programme/badge/icon]
+image::https://builds.gbif.org/job/doc-2027-work-programme/badge/icon[Build status,link=https://builds.gbif.org/job/doc-2027-work-programme/lastBuild/console]
+
+
+
 
 = GBIF 2027 Work Programme 
 
