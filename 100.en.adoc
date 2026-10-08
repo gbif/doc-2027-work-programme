@@ -1,4 +1,77 @@
-[[short-id-for-section]]
-== Section/chapter title 
+[[priority1]]
+== Priority Area 1: Science and Research
 
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way. He stopped twice or thrice at different shops and houses of a description correspondent with the appearance of the _quartier_ in which they were situated, — and tended inquiry for some article or another which did not seem easily to be met with. All the answers he received were couched in the negative; and as he turned from each door he muttered to himself, in no very elegant phraseology, his disappointment and discontent. At length, at one house, the landlord, a sturdy butcher, after rendering the same reply the inquirer had hitherto received, added, — “But if _this_ vill do as vell, Dummie, it is quite at your sarvice!” Pausing reflectively for a moment, Dummie responded that he thought the thing proffered _might_ do as well; and thrusting it into his ample pocket, he strode away with as rapid a motion as the wind and the rain would allow. He soon came to a nest of low and dingy buildings, at the entrance to which, in half-effaced characters, was written “Thames Court.” Halting at the most conspicuous of these buildings, an inn or alehouse, through the half-closed windows of which blazed out in ruddy comfort the beams of the hospitable hearth, he knocked hastily at the door. He was admitted by a lady of a certain age, and endowed with a comely rotundity of face and person.
+*_Improving biodiversity evidence for scientific research and understanding_*
+
+[[activity1-1]]
+=== Activity 1.1: Drive mobilization and use of biodiversity data to support priority thematic areas of relevance
+
+==== Projected outcomes for 2027
+
+*	Knowledge gaps are reduced by consolidating data coverage across the thematic areas of relevance
+*	GBIF’s relevance to research is enhanced, through increased recognition and uptake of GBIF mediated data among researchers across additional scientific disciplines
+
+==== Indicative tasks for 2027
+
+*	Review and improve how GBIF's impact is communicated across thematic areas
+*	Continue engaging with communities working on agrobiodiversity and biodiversity loss to identify partnership opportunities and develop a roadmap for improving GBIF content and services
+*	Strengthen coordination of scientific expertise across the GBIF network to support strategic documents, communications, and improvements to GBIF data and services
+*	Support coordination across projects generating survey and monitoring data through GBIF, with a focus on integrating new and emerging monitoring technologies
+*	Enhance visibility and attribution of individuals, organizations, and funders within the GBIF ecosystem through promotion of persistent identifiers and improved discovery services
+*	Monitor opportunities, changes and challenges in open science and biodiversity data diplomacy, including on sensitive species, and engage in global initiatives to promote ethical open data and open science
+ 
+
+[[activity1-2]]
+=== Activity 1.2: Advance GBIF’s capacity to mediate biodiversity sensor, survey and monitoring data
+
+==== Projected outcomes for 2027
+
+*	Reduce knowledge gaps by helping the network to set targets for consolidating data coverage across thematic, taxonomic, phylogenetic, spatial and temporal dimensions
+	Enable, expand and diversify the uptake and application of GBIF-mediated data
+
+==== Indicative tasks for 2027
+
+*	Scale up and coordinate sensor, survey and monitoring data publishing and discoverability across a broad range of geographic and taxonomic origins, durations, evidence types, and data generation technologies
+*	Support growth of dataset and of community skills focusing on improvements of Darwin Core standards and richer data model, coordinating with the scientific and with policy-oriented networks producing sensor, survey, and monitoring based data (such as LTER networks, NEON, OBFS and other large-scale and long-term initiatives)
+*	Showcase sampling-event data streams at international conferences, present content progress through presentations and grow skills through workshops and online formats
+*	Review and improve visibility, discoverability and uptake of event-based datasets through the GBIF.org and other services; document specifications and advise on improvements for dataset catalogue functionality
+*	Contribute to the maintenance and updates to templates, guidelines, and training materials for publishing sensor, survey and monitoring data for broader ecological and monitoring including sensor operating projects and communities
+*	Support and equip network wide efforts, including through ambassadors and capacity champions, and relevant projects in publishing event-based survey and monitoring data through GBIF
+*	Contribute to the ongoing maintenance of the Darwin Core standard and related data schemas
+
+[[activity1-3]]
+=== Activity 1.3: Improve taxonomic balance and interoperability of biodiversity evidence in GBIF through DNA-derived nomenclatures, metabarcoding and eDNA data
+
+==== Projected outcomes for 2027
+
+*	Increased data coverage on underrepresented taxa, improved access, increased capacity for the GBIF network to engage with the DNA community
+*	Knowledge gaps and GBIF’s relevance to data-driven biodiversity research and recognition addressed, involvement in academia and higher education increased
+
+==== Indicative tasks for 2026
+
+*	Continue engagement targeting improvements in data coverage and quality from DNA-derived research and monitoring, including through expanded interoperability with partner infrastructures
+*	Enable the publishing of DNA reference libraries and support reinterpretation of DNA-derived occurrence records to enhance reuse of sequence-based biodiversity evidence
+*	Engage with data providers and repositories of DNA sequences to scale up and improve data publishing pipelines and mobilize additional DNA-derived biodiversity data into GBIF
+*	Showcase DNA-derived data and sequence-associated tools in GBIF; promote and support DNA-derived data mobilization through presentations and workshops at conferences
+
+[[activity1-ongoing]]
+=== Ongoing activities to support science and research
+
+*	Provide scientific advice, feasibility and research relevance recommendations, support organizational involvement in the relevant projects supporting Work Programme
+*	Promote conversion of existing occurrence datasets to Event-based formats to increase their value through use of the richer standards and data model
+*	Maintain guides, materials, and other resources aimed at research audiences
+*	Support GBIF’s involvement biodiversity open data diplomacy and in open science advocacy, participate in global open science and open data initiatives
+*	Monitor data practices in relevant research sectors in relation to GBIF processes, assess usability and accessibility of the GBIF infrastructure for researchers, provide recommendations for improvements to tools and processes
+*	Support community standards development and maintenance for priority data areas—such as invasive and alien species, interactions, survey and monitoring data, and DNA—through TDWG and other standards communities
+*	Communicate progress with DNA-derived, survey and monitoring, and other thematic communities to the GBIF network and partners
+*	Maintain GBIF’s literature tracking programme to document and communicate the use of GBIF-mediated data in research
+*	Promote best practices in data citation using digital object identifiers (DOIs), through outreach to researchers and journal publishers
+*	Highlight and illustrate uses of GBIF-mediated data across scientific disciplines and thematic areas through GBIF.org and the annual Science Review
+*	Run annual competitions through the https://www.gbif.org/ebbe[Ebbe Nielsen Challenge^] and https://www.gbif.org/graduate-researchers-award[Graduate Researchers Awards^]
+*	Ensure presence of GBIF representatives— including through Secretariat and node staff, regional contractors — at relevant scientific conferences with appropriate communication materials, presentations and training workshops
+*	Maintain master sets of presentations and other resources on priority work lines (such as DNA, SAM), grow a network of ambassadors and trainers to delegate thematic outreach and training at the regional and national levels
+	Review and process datasets reported through the https://github.com/gbif/data-mobilization[Suggest a dataset tool^] to increase ingestion of thematic data into GBIF
+*	Support GBIF network to integrate data and GBIF training into higher education programmes and professional development of the early career researchers of biodiversity (e.g. update materials and modules on DNA, SAM)
+
+
+*Expected funding mechanisms and sources*: Core funds: salaried staff; Supplementary funds: Novo Nordisk Foundation for DNA work; Horizon Europe grants
